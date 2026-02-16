@@ -1,4 +1,4 @@
-# Last update: 16.02.2026 07:48:37
+# Last update: 16.02.2026 14:16:51
 mixed-port: 7897
 allow-lan: false
 mode: rule
@@ -131,26 +131,26 @@ proxies:
 - {name: "🇺🇸 US-7 | Mix", type: "vless", server: "cf7.danfeng.eu.org", port: 2096, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
 - {name: "🇺🇸 US-8 | Mix", type: "vless", server: "cf8.danfeng.eu.org", port: 2096, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
 - {name: "🇺🇸 US-9 | Mix", type: "vless", server: "cf9.danfeng.eu.org", port: 2096, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
-- {name: "🇰🇷 KR-1 | Mix", type: "vless", server: "220.65.73.2", port: 30303, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
-- {name: "🇰🇷 KR-2 | Mix", type: "vless", server: "183.101.143.60", port: 19888, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
-- {name: "🇰🇷 KR-3 | Mix", type: "vless", server: "124.111.208.233", port: 29999, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
-- {name: "🇰🇷 KR-4 | Mix", type: "vless", server: "116.121.117.167", port: 12345, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
-- {name: "🇰🇷 KR-5 | Mix", type: "vless", server: "183.100.254.78", port: 28017, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
-- {name: "🇰🇷 KR-6 | Mix", type: "vless", server: "125.133.34.160", port: 26168, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
-- {name: "🇺🇸 US-10 | Mix", type: "vless", server: "45.202.113.85", port: 2096, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
-- {name: "🇺🇸 US-11 | Mix", type: "vless", server: "173.230.146.230", port: 443, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
-- {name: "🇺🇸 US-12 | Mix", type: "vless", server: "154.211.8.103", port: 2096, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
-- {name: "🇺🇸 US-13 | Mix", type: "vless", server: "154.92.9.177", port: 2096, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
-- {name: "🇩🇪 DE-1 | Mix", type: "vless", server: "93.152.217.11", port: 444, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
-- {name: "🇩🇪 DE-2 | Mix", type: "vless", server: "80.253.251.30", port: 443, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
-- {name: "🇬🇧 GB-1 | Mix", type: "vless", server: "192.0.54.133", port: 443, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
-- {name: "🇬🇧 GB-2 | Mix", type: "vless", server: "192.0.54.127", port: 443, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
-- {name: "🇬🇧 GB-3 | Mix", type: "vless", server: "37.0.6.133", port: 443, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
-- {name: "🇮🇹 IT-1 | Mix", type: "vless", server: "147.45.51.185", port: 443, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
-- {name: "🇳🇱 NL-1 | Mix", type: "vless", server: "143.47.183.211", port: 443, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
-- {name: "🇳🇱 NL-2 | Mix", type: "vless", server: "91.84.100.19", port: 443, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
-- {name: "🇳🇱 NL-3 | Mix", type: "vless", server: "212.34.134.96", port: 443, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
-- {name: "🇹🇬 TG-1 | Mix", type: "vless", server: "38.180.35.205", port: 443, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
+- {name: "🇭🇰 HK-1 | Mix", type: "vless", server: "157.254.53.35", port: 20000, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
+- {name: "🇯🇵 JP-1 | Mix", type: "vless", server: "172.105.194.109", port: 20205, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
+- {name: "🇰🇷 KR-1 | Mix", type: "vless", server: "121.187.35.13", port: 18853, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
+- {name: "🇰🇷 KR-2 | Mix", type: "vless", server: "112.185.8.118", port: 10088, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
+- {name: "🇰🇷 KR-3 | Mix", type: "vless", server: "125.141.69.69", port: 10005, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
+- {name: "🇸🇬 SG-2 | Mix", type: "vless", server: "118.200.124.124", port: 3306, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
+- {name: "🇺🇸 US-10 | Mix", type: "vless", server: "92.118.231.155", port: 444, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
+- {name: "🇺🇸 US-11 | Mix", type: "vless", server: "154.44.16.222", port: 39738, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
+- {name: "🇩🇪 DE-1 | Mix", type: "vless", server: "57.129.5.70", port: 2053, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
+- {name: "🇩🇪 DE-2 | Mix", type: "vless", server: "193.23.210.237", port: 8443, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
+- {name: "🇩🇪 DE-3 | Mix", type: "vless", server: "57.129.14.93", port: 8443, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
+- {name: "🇩🇪 DE-4 | Mix", type: "vless", server: "92.114.54.59", port: 80, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
+- {name: "🇩🇪 DE-5 | Mix", type: "vless", server: "178.20.209.45", port: 81, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
+- {name: "🇩🇪 DE-6 | Mix", type: "vless", server: "94.131.109.174", port: 443, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
+- {name: "🇹🇬 TG-1 | Mix", type: "vless", server: "38.244.205.70", port: 8443, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
+- {name: "🇳🇱 NL-1 | Mix", type: "vless", server: "89.150.35.129", port: 443, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
+- {name: "🇳🇱 NL-2 | Mix", type: "vless", server: "194.146.38.126", port: 443, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
+- {name: "🇳🇱 NL-3 | Mix", type: "vless", server: "94.131.105.101", port: 8443, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
+- {name: "🇳🇱 NL-4 | Mix", type: "vless", server: "185.18.54.61", port: 1080, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
+- {name: "🇵🇱 PL-1 | Mix", type: "vless", server: "176.123.176.219", port: 8443, uuid: "a2a396c3-f40e-4dee-bdbb-b1201f12dc1c", network: "ws", servername: "snippet.danfeng.theworkpc.com", skip-cert-verify: true, client-fingerprint: "random", ws-opts: {path: "/danfeng?ed=2560", headers: {"Host": "snippet.danfeng.theworkpc.com"}}, tls: true, tfo: false}
 proxy-groups:
   - name: 选择线路
     type: select
@@ -166,26 +166,26 @@ proxy-groups:
       - 🇺🇸 US-7 | Mix
       - 🇺🇸 US-8 | Mix
       - 🇺🇸 US-9 | Mix
+      - 🇭🇰 HK-1 | Mix
+      - 🇯🇵 JP-1 | Mix
       - 🇰🇷 KR-1 | Mix
       - 🇰🇷 KR-2 | Mix
       - 🇰🇷 KR-3 | Mix
-      - 🇰🇷 KR-4 | Mix
-      - 🇰🇷 KR-5 | Mix
-      - 🇰🇷 KR-6 | Mix
+      - 🇸🇬 SG-2 | Mix
       - 🇺🇸 US-10 | Mix
       - 🇺🇸 US-11 | Mix
-      - 🇺🇸 US-12 | Mix
-      - 🇺🇸 US-13 | Mix
       - 🇩🇪 DE-1 | Mix
       - 🇩🇪 DE-2 | Mix
-      - 🇬🇧 GB-1 | Mix
-      - 🇬🇧 GB-2 | Mix
-      - 🇬🇧 GB-3 | Mix
-      - 🇮🇹 IT-1 | Mix
+      - 🇩🇪 DE-3 | Mix
+      - 🇩🇪 DE-4 | Mix
+      - 🇩🇪 DE-5 | Mix
+      - 🇩🇪 DE-6 | Mix
+      - 🇹🇬 TG-1 | Mix
       - 🇳🇱 NL-1 | Mix
       - 🇳🇱 NL-2 | Mix
       - 🇳🇱 NL-3 | Mix
-      - 🇹🇬 TG-1 | Mix
+      - 🇳🇱 NL-4 | Mix
+      - 🇵🇱 PL-1 | Mix
   - name: 自动选择⚡️
     type: url-test
     proxies:
@@ -199,26 +199,26 @@ proxy-groups:
       - 🇺🇸 US-7 | Mix
       - 🇺🇸 US-8 | Mix
       - 🇺🇸 US-9 | Mix
+      - 🇭🇰 HK-1 | Mix
+      - 🇯🇵 JP-1 | Mix
       - 🇰🇷 KR-1 | Mix
       - 🇰🇷 KR-2 | Mix
       - 🇰🇷 KR-3 | Mix
-      - 🇰🇷 KR-4 | Mix
-      - 🇰🇷 KR-5 | Mix
-      - 🇰🇷 KR-6 | Mix
+      - 🇸🇬 SG-2 | Mix
       - 🇺🇸 US-10 | Mix
       - 🇺🇸 US-11 | Mix
-      - 🇺🇸 US-12 | Mix
-      - 🇺🇸 US-13 | Mix
       - 🇩🇪 DE-1 | Mix
       - 🇩🇪 DE-2 | Mix
-      - 🇬🇧 GB-1 | Mix
-      - 🇬🇧 GB-2 | Mix
-      - 🇬🇧 GB-3 | Mix
-      - 🇮🇹 IT-1 | Mix
+      - 🇩🇪 DE-3 | Mix
+      - 🇩🇪 DE-4 | Mix
+      - 🇩🇪 DE-5 | Mix
+      - 🇩🇪 DE-6 | Mix
+      - 🇹🇬 TG-1 | Mix
       - 🇳🇱 NL-1 | Mix
       - 🇳🇱 NL-2 | Mix
       - 🇳🇱 NL-3 | Mix
-      - 🇹🇬 TG-1 | Mix
+      - 🇳🇱 NL-4 | Mix
+      - 🇵🇱 PL-1 | Mix
     url: https://www.gstatic.com/generate_204
     interval: 300
 rules:
